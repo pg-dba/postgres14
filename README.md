@@ -1,3 +1,3 @@
-# postgres12
+# postgres14
 
-docker build -t sqldbapg/postgres:12 .
+docker build -t sqldbapg/postgres:14 .
